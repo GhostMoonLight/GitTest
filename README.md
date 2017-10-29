@@ -7,3 +7,6 @@
         git commit  -m  "提交信息" 
         git push -u origin master   （注：此操作目的是把本地仓库push到github上面）
     
+ 打死我群二
+ 我看官网
+ 让我
